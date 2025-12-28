@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.jpg
+*.jpeg
+*.png
+input_*.jpg
+output_*.jpg
+bot_log.txt
