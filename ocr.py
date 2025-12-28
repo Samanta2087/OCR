@@ -10,7 +10,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, Cal
 from telegram.error import TimedOut, NetworkError
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-BOT_TOKEN = "8128490063:AAHavnSDDguZGSRdHVtYgwGj5kakfbJJWeQ"
+BOT_TOKEN = "8591495285:AAGg6UU7LaAjy95r-OT6s3xYx8M6ZBh7Z8I"
 
 UPI_REGEX = re.compile(
     r'[a-zA-Z0-9._-]{3,}@[a-zA-Z0-9._\-|\\\/IlL]{2,}',
